@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "outDir": "dist",
+        "noEmitOnError": true, //when errors do not compile
+        "strict": true //add type to everything
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "files": [
+        "src/app.ts"
+    ]
+}
